@@ -19,7 +19,7 @@ start:
 	beq $s0, $s1, finish
 	or  $t2, $s1, $zero
 	#add $s1, $s1, 1
-    j loop_c1
+        j loop_c1
 
 loop_c1:
 	slt  $t6, $zero, $t2
