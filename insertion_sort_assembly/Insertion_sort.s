@@ -18,7 +18,7 @@ main:
 start:
 	beq $s0, $s1, finish
 	or  $t2, $s1, $zero
-    j loop_c1
+        j loop_c1
 
 loop_c1:
 	slt  $t6, $zero, $t2
