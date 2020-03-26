@@ -4,10 +4,10 @@ This is NCKU Computer Architecture and IC design LAB course project.
 
 The project is Single cycle CPU.
 
-I have written a insertion sort assembly code, and test in my Single cycle CPU.
-I have modified some part of testbench, because "memory needs 8 bits width in each address".
+I have modified some part of testbench, because "memory needs 8 bits width in each address", and used a insertion sort assembly code to test my Single cycle CPU function.
 
-Implenment 23 instrucetion, contain :
+
+Total implenment 23 instruction, contain :
 
 Rtype :
   nop  add  sub  and  or  xor  nor  slt  sll  srl  jr  jalr
