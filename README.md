@@ -1,5 +1,5 @@
 # MIPS_Pipelined-CPU
-==================================================================
+-------------------------------------------------------------------
 
 This is NCKU Computer Architecture and IC design LAB course project. 
 
@@ -19,7 +19,7 @@ Itype :
 Jtype :
   j  jal
 
-===================================================================
+--------------------------------------------------------------------
 
 If you have some questions or suggestion, please contact to me. Thanks!
     
