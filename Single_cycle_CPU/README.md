@@ -1,4 +1,4 @@
-# MIPS Single cycle CPU
+# MIPS_Single cycle CPU
 
 This is NCKU Computer Architecture and IC design LAB course part of project. 
 
