@@ -1,6 +1,6 @@
 # MIPS_Pipelined-CPU
 
-This is NCKU Computer Architecture and IC design LAB course project. 
+This is NCKU Computer Architecture and IC design LAB course part of project. 
 
 The project is Single cycle CPU.
 
