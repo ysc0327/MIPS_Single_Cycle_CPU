@@ -46,7 +46,7 @@ a4910038  //sh $17, 56($4)           ; 41: sh $s1, 56($a0) # store 65535 to memo
 00000000  //nop                      ; 46: nop 
 20100040  //addi $16, $0, 64         ; 47: addi $s0, $0, 64 # compute address of fun2  (memory based addr)
 00108400  //sll $16, $16, 16         ; 48: sll $s0, $s0, 16 
-22100040  //addi $16, $16, 64        ; 49: addi $s0, $s0,256  <----- (real func2 address)
+22100040  //addi $16, $16, 64        ; 49: addi $s0, $s0, 64  <----- (real func2 address)
 0200f809  //jalr $31, $16            ; 50: jalr to fun2 
 00000000  //nop                      ; 51: nop 
 201001aa  //fun1: addi $16, $0, 426  ; 53: addi $s0, $0, 426 # $s0 = 0 + 426 
