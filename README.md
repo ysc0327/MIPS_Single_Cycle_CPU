@@ -1,2 +1,2 @@
-# MIPS_Pipelined-CPU
+# MIPS_Single_Cycle_CPU
 
